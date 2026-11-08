@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Neev Varma 👋
+I'm a software developer and graduate student at Boston University, pursuing a master's degree in Computer Science with a focus on artificial intelligence.
 
-<!--
-**neevvarma/neevvarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I earned my bachelor's degree in Computer Science from the University of Texas at Dallas and currently develop enterprise software applications supporting university operations.
 
-Here are some ideas to get you started:
+Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI & Machine Learning: Building intelligent applications that solve real-world problems.
+
+Data Engineering: Developing reliable data pipelines and scalable data-processing systems.
+
+Backend Development: Designing APIs, integrating services, and building maintainable software.
+
+Software Engineering: Applying algorithms, system design, and problem-solving to practical challenges.
+
+Professional Goals
+
+I'm pursuing opportunities in AI/ML Engineering and Data Engineering, where I can combine my software development experience with my growing knowledge of machine learning and data infrastructure.
