@@ -36,3 +36,18 @@ I'm pursuing opportunities in AI/ML Engineering and Data Engineering, where I ca
 - Build backend APIs and support integrations for identity and access management workflows.
 - Contribute to data maturity assessment tools and enterprise application improvements.
 - Explore AI-powered capabilities to improve user interactions with enterprise systems.
+### 🚀 Featured Projects
+
+#### [Aurelian AI — Web-Enabled Research Assistant](https://github.com/neevvarma/aurelian-ai)
+
+A conversational research application built with Next.js and TypeScript that integrates Tavily-powered web search to help users explore questions and retrieve relevant information.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Tavily API
+
+**Highlights:**
+- Developed a responsive conversational interface.
+- Integrated web-search capabilities into a research-oriented application.
+- Implemented conversational workflows supporting follow-up exploration.
+- Deployed the application using Vercel.
+
+🌐 [Live Demo](https://aurelian-ai.vercel.app) | 💻 [Source Code](https://github.com/neevvarma/aurelian-ai)
