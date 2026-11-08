@@ -51,3 +51,8 @@ A conversational research application built with Next.js and TypeScript that int
 - Deployed the application using Vercel.
 
 🌐 [Live Demo](https://aurelian-ai.vercel.app) | 💻 [Source Code](https://github.com/neevvarma/aurelian-ai)
+### 📄 Resume
+
+Interested in learning more about my professional experience, technical skills, and education?
+
+[**View My Resume (PDF)**](https://github.com/neevvarma/neevvarma/blob/main/Neev_Varma_Portfolio_Resume.pdf)
